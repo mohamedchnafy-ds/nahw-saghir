@@ -10,16 +10,14 @@ du Coran analysés, exercices, fiche), en français ou entièrement en arabe.
 
 ## Reprendre dans une nouvelle conversation
 
-1. Ouvre une nouvelle conversation avec Claude.
-2. Joins **ce dossier zippé** (`nahw-saghir.zip`) et le **PDF du livre**.
-3. Colle ce message :
+Le projet vit sur GitHub (`mohamedchnafy-ds/nahw-saghir`). Dans une nouvelle conversation,
+joins le **PDF du livre** et colle :
 
-> Voici mon projet Nahw Saghîr (zip) et le livre النحو الصغير (PDF).
+> Continue mon projet Nahw Saghîr : dépôt GitHub mohamedchnafy-ds/nahw-saghir (PDF du livre joint).
 > Lis d'abord CLAUDE.md, ROADMAP.md et docs/guide-lecon.md, puis construis la leçon suivante
-> (seulement les pages PDF indiquées). Teste, publie sur la même app, et renvoie-moi le zip à jour.
+> (seulement les pages PDF indiquées). Teste, puis pousse sur main pour mettre à jour l'app.
 
-À la fin de chaque conversation, garde le **nouveau zip** que Claude te renvoie : c'est lui
-qu'il faudra joindre la fois suivante.
+Sans accès GitHub, tu peux aussi joindre le zip du projet à la place du dépôt.
 
 ### Option : un Projet Claude
 Crée un Projet « Nahw Saghîr » et mets dans ses connaissances `CLAUDE.md`, `ROADMAP.md`,
