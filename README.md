@@ -5,7 +5,7 @@ une leçon par chapitre, en 6 étapes (carte en arbre, prof animé, laboratoire,
 du Coran analysés, exercices, fiche), en français ou entièrement en arabe.
 
 **App installable (PWA) :** https://mohamedchnafy-ds.github.io/nahw-saghir/  
-**Aperçu Claude (artifact) :** https://claude.ai/artifact/GzMaWrhdJ2eM3kVgrRXpCv
+**Aperçu Claude (artifact) :** https://claude.ai/artifact/GzMaWrhdJ2eM3kVgrRXpCv  
 **Avancement :** leçons 1 et 2 sur 31 (voir `ROADMAP.md`).
 
 ## Reprendre dans une nouvelle conversation
